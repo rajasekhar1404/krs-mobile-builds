@@ -1,2 +1,2 @@
 ## Download latest version: 
-[![Download now](https://i.gyazo.com/66644378f4d145eaa3bfefffe1eff501.jpg)](https://raw.githubusercontent.com/rajasekhar1404/krs-mobile-builds/main/krs_1.0.10.apk)
+[![Download now](https://i.gyazo.com/51c42b9a6d9ffcfc117d6e4afc4e399d.png)](https://raw.githubusercontent.com/rajasekhar1404/krs-mobile-builds/main/krs_1.0.10.apk)
